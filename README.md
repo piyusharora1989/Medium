@@ -1,0 +1,2 @@
+# Medium
+For medium examples
